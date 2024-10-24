@@ -4,3 +4,4 @@
       {"src": "/(.*)","dest": "https://torrentio.strem.fun/$1"}
     ]
 }
+
