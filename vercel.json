@@ -1,7 +1,6 @@
 {
     "version": 2,
     "routes": [
-      {"src": "/(.*)","dest": "https://torrentio.strem.fun/$1"}
+      {"src": "/w/(.*)","dest": "https://zh.wikisource.org/w/$1"}
     ]
 }
-
