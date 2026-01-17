@@ -1,6 +1,6 @@
 {
     "version": 2,
     "routes": [
-      {"src": "/w/(.*)","dest": "https://de.wikisource.org/w/$1"}
+      {"src": "/w/(.*)","dest": "https://en.wikisource.org/w/$1"}
     ]
 }
